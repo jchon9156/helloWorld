@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.jason.helloworld">
-
+    <!--this is a change in the code-->
+    
     <!--This is what Android will look at first. It includes all the components of the app-->
     <application
         android:allowBackup="true"
