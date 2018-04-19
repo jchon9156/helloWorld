@@ -1,0 +1,11 @@
+
+<!--Strings are localized here. It is recommended to use localized strings rather than hardcoding
+them. It also allows you to add support for multiple languages-->
+
+<resources>
+    <string name="app_name">helloWorld</string>
+    <string name="app_text">This is interesting</string>
+    <string name="app_super">This is super interesting</string>
+    <string name="app_mega">This is mega interesting</string>
+    <string name="app_superMega">This is super mega interesting</string>
+</resources>
